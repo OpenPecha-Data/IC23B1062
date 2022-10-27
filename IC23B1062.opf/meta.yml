@@ -1,0 +1,60 @@
+id: IC23B1062
+legacy_id: null
+ocr_import_info:
+  bdrc_scan_id: W1PD192036
+  source: bdrc.io
+  batch_id: batch001
+  software_id: vision
+  expected_default_language: bo
+  ocr_info: {}
+  op_import_options: {}
+  op_import_version: 0.9.7
+default_language: bo
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-10-27T10:14:26.928000+00:00'
+last_modified: '2022-10-27T10:14:26.928012+00:00'
+parser: null
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1PD192036
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  reproduction_of: http://purl.bdrc.io/resource/MW1PD192036
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: ཇོ་བོ་རྗེ་དཔལ་ལྡན་ཨ་ཏི་ཤའི་གསུང་འབུམ།
+  languages:
+  - bo
+  author: ཨ་ཏི་ཤ
+statistics:
+  ocr_word_mean_confidence_index: 0.9969119577554841
+  ocr_word_median_confidence_index: 1.0
+quality: null
+bases:
+  I2PD17745:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD17745
+      total_pages: 1024
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I2PD17745.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9970162576770134
+  I2PD17744:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2PD17744
+      total_pages: 926
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I2PD17744.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9968006066791079
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
